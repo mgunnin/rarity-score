@@ -6,6 +6,7 @@ export const config = {
   COLLECTION_TITLE: "OneBot",
   COLLECTION_DESCRIPTION:
     "OneBot is your digital companion for the esports and gaming metaverse. OneBot Genesis collection features 6,000 unique robotic avatars, each constructed with futuristic materials, glowing neon lights, and an animated expression displaying their personality. Each OneBot has it's own custom utility that enhances the functionality and appearance within the Esports Metaverse.",
-  COLLECTION_IMG_LINK: "https://punkscape.xyz/og.png",
+  COLLECTION_IMG_LINK:
+    "https://esportsone.com/wp-content/uploads/2022/04/banner-1400x400-1.png",
   STARTING_INDEX: 0,
 };
